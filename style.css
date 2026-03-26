@@ -20,15 +20,18 @@
 }
 
 
+html {
+    width: 100%;
+    overflow-x: hidden;
+}
+
 body {
+    width: 100%;
     background-color: var(--bg-color);
     color: var(--text-primary);
     font-family: var(--font-body);
     font-size: 16px;
     line-height: 1.6;
-    overflow-x: hidden;
-    cursor: none;
-}
     overflow-x: hidden;
     cursor: none;
 }
